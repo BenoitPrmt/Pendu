@@ -1,2 +1,3 @@
 # Pendu
-Le jeu du pendu en Python
+
+Ma version du pendu en Python.
